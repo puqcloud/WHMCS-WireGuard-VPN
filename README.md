@@ -1,32 +1,35 @@
 # WHMCS-WireGuard-VPN
 Provision VPN accounts using WireGuard via WHMCS module. Uses only PUQVPNCP
+
 # Description
 
-## WireGuard VPN module **[WHMCS](https://puqcloud.com/link.php?id=77)** 
+### WireGuard VPN module **[WHMCS](https://puqcloud.com/link.php?id=77)**
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
-## The WireGuard VPN module provides the ability to sell the Virtual Private Network service to customers.
+### The WireGuard VPN module provides the ability to sell the Virtual Private Network service to customers.
 
->### Attention.  
->The module require the PUQVPNCP control panel with active license.   
->  
->[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
->[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
->[PUQVPNCP Order now](https://puqcloud.com/index.php?rp=/store/puqvpn)
+### Attention.  
+The module require the PUQVPNCP control panel with active license.   
+  
+[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
+[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
+[PUQVPNCP Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn)
 
-###  
-
-Module Functions:
+### Module Functions:
 
 - Auto create and deploy VPN account/accounts
 - Suspend/Unsuspend/Terminate/Change Package
 - Module require active **[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description)** API (need separte license)
 - Possibility to set Bandwidth speed limits
+<<<<<<< HEAD
+- Module supports multilingualism (**Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish, Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian**)
+=======
 - Module supports multilingualism **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
+>>>>>>> 728e10e582c5aaa1ec31afbeadfa34ab36662a8e
 - Link to instructions for setting up the service in the client area.
 
-Available options in the admin panel:
+### Available options in the admin panel:
 
 - Create users
 - Suspend users
@@ -35,7 +38,7 @@ Available options in the admin panel:
 - Change Package
 - VPN connection status
 
-Available options in the client panel:
+### Available options in the client panel:
 
 - VPN connection status
 
@@ -46,4 +49,9 @@ Available options in the client panel:
 
 >[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +
 
+<<<<<<< HEAD
+[![image-1770293999114.png](https://doc.puq.info/uploads/images/gallery/2026-02/scaled-1680-/image-1770293999114.png)](https://doc.puq.info/uploads/images/gallery/2026-02/image-1770293999114.png)
+=======
 <img width="582" height="885" alt="image" src="https://github.com/user-attachments/assets/c4af2ae5-4b71-4c9f-ba7b-8b6c11160061" />
+
+>>>>>>> 728e10e582c5aaa1ec31afbeadfa34ab36662a8e
