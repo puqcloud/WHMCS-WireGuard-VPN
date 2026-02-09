@@ -23,7 +23,7 @@ Module Functions:
 - Suspend/Unsuspend/Terminate/Change Package
 - Module require active **[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description)** API (need separte license)
 - Possibility to set Bandwidth speed limits
-- Module supports multilingualism
+- Module supports multilingualism **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
 - Link to instructions for setting up the service in the client area.
 
 Available options in the admin panel:
@@ -42,8 +42,8 @@ Available options in the client panel:
 
 - - - - - -
 
->WHMCS minimal version: 8 +
+>WHMCS minimal version: 9 +
 
 >[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +
 
-![image](https://github.com/PUQ-sp-z-o-o/WHMCS-WireGuard-VPN/assets/81689153/788e8a05-3429-40df-bc53-757257b1829e)
+<img width="582" height="885" alt="image" src="https://github.com/user-attachments/assets/c4af2ae5-4b71-4c9f-ba7b-8b6c11160061" />
